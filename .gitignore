@@ -1,0 +1,15 @@
+_pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+.venv/
+env/
+venv/
+
+.vscode/
+.idea/
+*.swp
+
+diagrams/*.png
